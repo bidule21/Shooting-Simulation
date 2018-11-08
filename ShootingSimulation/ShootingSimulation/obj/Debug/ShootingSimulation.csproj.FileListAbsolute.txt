@@ -1,0 +1,24 @@
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\ShootingSimulation.exe.config
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\ShootingSimulation.exe
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\ShootingSimulation.pdb
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.Math.dll
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\ZedGraph.dll
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.Imaging.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.Video.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.Video.DirectShow.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\Emgu.CV.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\Emgu.CV.UI.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\Emgu.Util.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\AForge.Math.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.csprojResolveAssemblyReference.cache
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.frmUser.resources
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.Properties.Resources.resources
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.csproj.GenerateResource.Cache
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.exe
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.pdb
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\ZedGraph.xml
+H:\Visual studio 2015\Projects\ShootingSimulation\ShootingSimulation\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\AspireF5\MyProject\shooting-simulation\ShootingSimulation\ShootingSimulation\bin\Debug\ShootingSimulation.exe.config
+C:\Users\AspireF5\MyProject\shooting-simulation\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.exe
+C:\Users\AspireF5\MyProject\shooting-simulation\ShootingSimulation\ShootingSimulation\obj\Debug\ShootingSimulation.pdb
